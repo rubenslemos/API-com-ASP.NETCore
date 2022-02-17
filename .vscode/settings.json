@@ -1,0 +1,6 @@
+{
+  "msbuildProjectTools.nuget.includePreRelease": true,
+  "cSpell.words": [
+    "conexao"
+  ]
+}
